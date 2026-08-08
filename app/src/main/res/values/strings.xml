@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Oyun Performans Asistanı</string>
+    <string name="app_subtitle">Sistem kaynaklarını optimize eder. Oyun dosyalarına dokunmaz.</string>
+
+    <string name="game_mode_title">Oyun Modu</string>
+    <string name="game_mode_description">Açıkken: bildirimleri sessize alır (izin verirsen) ve seçtiğin uygulamaların arka plan önbelleğini temizlemeyi dener.</string>
+    <string name="dnd_permission_hint">Bildirim erişim izni verilmedi — Rahatsız Etme özelliği çalışmayacak.</string>
+    <string name="grant_dnd_permission">Bildirim İzni Ver</string>
+    <string name="select_target_apps">Hedef Uygulamaları Seç</string>
+
+    <string name="device_status_title">Cihaz Durumu</string>
+    <string name="ram_format">RAM: %1$d MB boş / %2$d MB toplam</string>
+    <string name="battery_format">Pil: %%%1$d — %2$.1f°C</string>
+    <string name="cpu_format">CPU: %1$d çekirdek — %2$s</string>
+    <string name="refresh_stats">Durumu Yenile</string>
+
+    <string name="refresh_rate_title">Ekran Yenileme Hızı</string>
+    <string name="refresh_rate_note">Not: Bu ayar bu uygulamanın kendi ekranını etkiler. PUBG gibi başka bir uygulamayı sistem seviyesinde zorlamak için Sistem Ayarları\'ndaki yenileme hızı seçeneğini kullanman gerekir.</string>
+    <string name="try_high_refresh_rate">Bu Uygulamada Yüksek Hızı Dene</string>
+    <string name="open_display_settings">Sistem Ekran Ayarlarını Aç</string>
+    <string name="refresh_rate_applied_format">Uygulandı: %1$.0f Hz (bu ekran için)</string>
+    <string name="refresh_rate_unavailable">Bu cihazda okunamadı</string>
+
+    <string name="launch_game">PUBG Mobile\'ı Başlat</string>
+
+    <string name="disclaimer_text">Bu uygulama; RAM, pil, sıcaklık ve ekran yenileme hızı gibi sistem kaynaklarını yalnızca Android\'in resmi ve genel API\'leri üzerinden okur ve düzenler. Herhangi bir oyunun dosyasına, config\'ine veya belleğine dokunmaz. Bir oyunun FPS sınırı yazılımsal olarak sabitlenmişse (donanım yetersizliğinden değilse), bu uygulama o sınırı kaldıramaz.</string>
+
+    <string name="app_list_title">Hedef Uygulamalar</string>
+    <string name="app_list_hint">Oyun modu açıldığında bu listede işaretlediğin uygulamaların arka plan önbelleği temizlenmeye çalışılır. Bu, Android\'in izin verdiği ölçüde çalışır.</string>
+
+    <string name="game_mode_channel_name">Oyun Modu</string>
+    <string name="game_mode_channel_desc">Oyun modu aktifken gösterilen bildirim</string>
+    <string name="game_mode_active_title">Oyun Modu Aktif</string>
+    <string name="game_mode_notification_text">Boş RAM: %1$d MB • Pil: %%%2$d • Termal: %3$s</string>
+</resources>
